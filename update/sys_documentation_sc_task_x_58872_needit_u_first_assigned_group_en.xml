@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="x_58872_needit_u_first_assigned_group" label="First Assignment Group" language="en" table="sc_task">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>x_58872_needit_u_first_assigned_group</element>
+            <help/>
+            <hint/>
+            <label>First Assignment Group</label>
+            <language>en</language>
+            <name>sc_task</name>
+            <plural>First Assignment Groups</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-05-23 03:19:14</sys_created_on>
+            <sys_id>9e5348cf97274150b7c5337e6253af9e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>First Assignment Group</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_documentation_sc_task_x_58872_needit_u_first_assigned_group_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-05-23 03:19:14</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
